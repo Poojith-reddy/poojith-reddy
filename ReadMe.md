@@ -1,5 +1,5 @@
 # 💫About Me :
-👨‍🎓 **Bachelors in Computer Science (Data Science) Student** //
+👨‍🎓 **Bachelors in Computer Science (Data Science) Student** 
 🌟 **Google Developer Student Club (GDSC) Team Member**
 
 Hello there! 👋 I'm Menthem Poojith Reddy, a dedicated student pursuing my Bachelors in Computer Science with a focus on Data Science. As a passionate member of the Google Developer Student Club (GDSC) Team, I'm actively engaged in exploring and learning about the exciting intersections of technology.
